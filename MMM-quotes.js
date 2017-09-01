@@ -18,6 +18,10 @@ Module.register('MMM-quotes',{
       	author: 'Walt Disney'
 			},
 			{
+				quote: 'No matter how slow you go, you are still lapping everybody on the couch.',
+				author: 'Unknown'
+			},
+			{
 				quote: 'Don\'t cry because it\'s over. Smile because it happened.',
 				author: 'Dr. Seuss'
 			},
