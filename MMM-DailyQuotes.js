@@ -1,6 +1,6 @@
 'use strict';
 
-Module.register('MMM-quotes',{
+Module.register('MMM-DailyQuotes',{
 
 	// Module config defaults.
 	defaults: {
