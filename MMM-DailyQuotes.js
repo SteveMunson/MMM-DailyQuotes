@@ -1,12 +1,4 @@
 'use strict';
-/* global Log, Module, JSON */
-
-/* Magic Mirror
- * Module: Compliments
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
 
 Module.register('MMM-quotes',{
 
@@ -15,7 +7,7 @@ Module.register('MMM-quotes',{
 		quotes: [
 			{
 				quote: 'If you can dream it, you can do it.',
-      	author: 'Walt Disney'
+      			author: 'Walt Disney'
 			},
 			{
 				quote: 'No matter how slow you go, you are still lapping everybody on the couch.',
@@ -68,7 +60,7 @@ Module.register('MMM-quotes',{
 
 	// Define required scripts.
 	getStyles: function() {
-		return ['MMM-quotes.css'];
+		return ['MMM-DailyQuotes.css'];
 	},
 
 	// Define start sequence.
